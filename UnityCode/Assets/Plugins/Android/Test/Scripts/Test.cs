@@ -53,7 +53,7 @@ public class Test : MonoBehaviour {
 	public void ShareText(){
 		currentActivity = GetCurrentActivity ();
 		string subject = "Access native android functionality with a library (plugin) in Unity 3d";
-		string body = "Available in: https://github.com/Badaueba/share-plugin-for-Unity3d";
+		string body = "Available in: https://github.com/Badaueba/android-plugin-for-Unity3d";
 		currentActivity.Call ("shareText", subject, body);
 	}
 
