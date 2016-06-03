@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 
-//#if !UNITY_EDITOR && UNITY_ANDROID 
+#if !UNITY_EDITOR && UNITY_ANDROID 
 
 /// <summary>
 /// Test.
@@ -58,4 +58,4 @@ public class Test : MonoBehaviour {
 	}
 
 }
-//#endif
+#endif
