@@ -1,2 +1,5 @@
 UnityCode/Library
-
+UnityCode/Temp
+UnityCode/*.sln
+UnityCode/*.csproj
+UnityCode/*.userprefs
