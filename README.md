@@ -6,8 +6,9 @@ Access native android functionality with a library (plugin) in Unity 3d
 ## Summary
 ### Folders:
     *UnityCode:
-        unity project that contains the android native functions, as
+        unity project that will call native functions, as
         camera flashlight and intent share.
+        
     *Lib:
         android project configured to exports its functions into a library .jar file
 ## Dependencies
